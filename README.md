@@ -13,7 +13,7 @@ https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb
 ## :camera: Layout
 
 <div>
-   <img src="" width="400px" />
+   <img src="https://github.com/jotaEmeCortat/to_do/blob/main/assets/to_do.png" width="400px" />
 </div>
 
 &nbsp;
